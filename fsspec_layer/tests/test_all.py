@@ -1,4 +1,4 @@
-from fsspec_layer import *  # noqa
+from fsspec_layer import *
 
 
 def test_all():
